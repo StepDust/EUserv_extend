@@ -5,7 +5,7 @@ This Script can check the VPS amount in your account automatically and renew the
 
 This repo **do not** provide you any tutorials that help you run it on GitHub Action or others like Serverless / Cloud Function.
 
-All in this repo is for learning only.
+All in this repo is for learning only
 
 If you have any disputes about this repo, please contact me or send an Issue.
 
